@@ -1,0 +1,1533 @@
+fileFormatVersion: 2
+guid: 3864abbf0147cc243a6763c5c510459a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2683053163516906665
+    second: ABPC_birds_melody_0
+  - first:
+      213: -4234472555670555927
+    second: ABPC_birds_melody_1
+  - first:
+      213: 3561452545605257738
+    second: ABPC_birds_melody_2
+  - first:
+      213: -5600266093576313675
+    second: ABPC_birds_melody_3
+  - first:
+      213: -6647360854422933767
+    second: ABPC_birds_melody_4
+  - first:
+      213: -6551874897627180028
+    second: ABPC_birds_melody_5
+  - first:
+      213: -2370231984463335947
+    second: ABPC_birds_melody_6
+  - first:
+      213: 1803460415575265946
+    second: ABPC_birds_melody_7
+  - first:
+      213: -2144683940257532275
+    second: ABPC_birds_melody_8
+  - first:
+      213: -415705917667482458
+    second: ABPC_birds_melody_9
+  - first:
+      213: 1585016476453619071
+    second: ABPC_birds_melody_10
+  - first:
+      213: -6154749163106986234
+    second: ABPC_birds_melody_11
+  - first:
+      213: -2473323113904748327
+    second: ABPC_birds_melody_12
+  - first:
+      213: -2392833044058036095
+    second: ABPC_birds_melody_13
+  - first:
+      213: 599536212427415511
+    second: ABPC_birds_melody_14
+  - first:
+      213: 3788940902308564811
+    second: ABPC_birds_melody_15
+  - first:
+      213: -8734501939030407360
+    second: ABPC_birds_melody_16
+  - first:
+      213: -9183236739131678296
+    second: ABPC_birds_melody_17
+  - first:
+      213: 2372703535442090059
+    second: ABPC_birds_melody_18
+  - first:
+      213: -262823230875547710
+    second: ABPC_birds_melody_19
+  - first:
+      213: -5767224896895591204
+    second: ABPC_birds_melody_20
+  - first:
+      213: -6906401423789659979
+    second: ABPC_birds_melody_21
+  - first:
+      213: -803529668635550984
+    second: ABPC_birds_melody_22
+  - first:
+      213: 2499654920385786930
+    second: ABPC_birds_melody_23
+  - first:
+      213: -169787862558424557
+    second: ABPC_birds_melody_24
+  - first:
+      213: -962039179631309197
+    second: ABPC_birds_melody_25
+  - first:
+      213: -2225864477796140628
+    second: ABPC_birds_melody_26
+  - first:
+      213: -6031917993175117768
+    second: ABPC_birds_melody_27
+  - first:
+      213: -4242895675119490299
+    second: ABPC_birds_melody_28
+  - first:
+      213: 4454127644797262023
+    second: ABPC_birds_melody_29
+  - first:
+      213: -3648550806882652782
+    second: ABPC_birds_melody_30
+  - first:
+      213: 1545314190208777311
+    second: ABPC_birds_melody_31
+  - first:
+      213: -2990474207884639000
+    second: ABPC_birds_melody_32
+  - first:
+      213: -4637279470327076086
+    second: ABPC_birds_melody_33
+  - first:
+      213: 5842844648208926612
+    second: ABPC_birds_melody_34
+  - first:
+      213: 5281835442377458065
+    second: ABPC_birds_melody_35
+  - first:
+      213: 549444966956836641
+    second: ABPC_birds_melody_36
+  - first:
+      213: -8182927887892583696
+    second: ABPC_birds_melody_37
+  - first:
+      213: 5683148500483189871
+    second: ABPC_birds_melody_38
+  - first:
+      213: -2517735336362288873
+    second: ABPC_birds_melody_39
+  - first:
+      213: -5427653385795284048
+    second: ABPC_birds_melody_40
+  - first:
+      213: 8363944678625330407
+    second: ABPC_birds_melody_41
+  - first:
+      213: -1792703999756815178
+    second: ABPC_birds_melody_42
+  - first:
+      213: -1132077228006359489
+    second: ABPC_birds_melody_43
+  - first:
+      213: -2211819181995886857
+    second: ABPC_birds_melody_44
+  - first:
+      213: -3158870551937829463
+    second: ABPC_birds_melody_45
+  - first:
+      213: 2488827910438344281
+    second: ABPC_birds_melody_46
+  - first:
+      213: -2447268326448720350
+    second: ABPC_birds_melody_47
+  - first:
+      213: 8100337686064833870
+    second: ABPC_birds_melody_48
+  - first:
+      213: -1203601959685738232
+    second: ABPC_birds_melody_49
+  - first:
+      213: 4446523696485500931
+    second: ABPC_birds_melody_50
+  - first:
+      213: 5527609463592788605
+    second: ABPC_birds_melody_51
+  - first:
+      213: 2317485056972174437
+    second: ABPC_birds_melody_52
+  - first:
+      213: -1617989680050437800
+    second: ABPC_birds_melody_53
+  - first:
+      213: 4668790985394759784
+    second: ABPC_birds_melody_54
+  - first:
+      213: -7644479765883220164
+    second: ABPC_birds_melody_55
+  - first:
+      213: -3331581233030482741
+    second: ABPC_birds_melody_56
+  - first:
+      213: 3559059036916919660
+    second: ABPC_birds_melody_57
+  - first:
+      213: -708968307684620175
+    second: ABPC_birds_melody_58
+  - first:
+      213: -305340021368009222
+    second: ABPC_birds_melody_59
+  - first:
+      213: 1358576375263871474
+    second: ABPC_birds_melody_60
+  - first:
+      213: 3002970372738405453
+    second: ABPC_birds_melody_61
+  - first:
+      213: -2335125726506704648
+    second: ABPC_birds_melody_62
+  - first:
+      213: -8852556284336480609
+    second: ABPC_birds_melody_63
+  - first:
+      213: -5601246536820113947
+    second: ABPC_birds_melody_64
+  - first:
+      213: 5798015595221781116
+    second: ABPC_birds_melody_65
+  - first:
+      213: 1547533992192283818
+    second: ABPC_birds_melody_66
+  - first:
+      213: 4655459495322441461
+    second: ABPC_birds_melody_67
+  - first:
+      213: -2682698132267514489
+    second: ABPC_birds_melody_68
+  - first:
+      213: -7300935286870724461
+    second: ABPC_birds_melody_69
+  - first:
+      213: -1331039653311340398
+    second: ABPC_birds_melody_70
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ABPC_birds_melody_0
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 485
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753361bfc51e3cad0800000000000000
+      internalID: -2683053163516906665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 485
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e2bd1455a12c35c0800000000000000
+      internalID: -4234472555670555927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_2
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 485
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0a46398832dc6130800000000000000
+      internalID: 3561452545605257738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 485
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b428bcc8abd742b0800000000000000
+      internalID: -5600266093576313675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_4
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 485
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fea84aa584dfb3a0800000000000000
+      internalID: -6647360854422933767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_5
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 485
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40412227e701315a0800000000000000
+      internalID: -6551874897627180028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_6
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 485
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fd2bc2719e3b1fd0800000000000000
+      internalID: -2370231984463335947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_7
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 424
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9297dc51bd270910800000000000000
+      internalID: 1803460415575265946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_8
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 424
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d86f671c15d8c32e0800000000000000
+      internalID: -2144683940257532275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 424
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a4e66e9bad1b3af0800000000000000
+      internalID: -415705917667482458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_10
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 424
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75c82a661c1ff510800000000000000
+      internalID: 1585016476453619071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_11
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 424
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6071063de30f59aa0800000000000000
+      internalID: -6154749163106986234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_12
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 424
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8c1fc6bbdfcadd0800000000000000
+      internalID: -2473323113904748327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_13
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 424
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188aa123603faced0800000000000000
+      internalID: -2392833044058036095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 363
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7df18bb320bf15800800000000000000
+      internalID: 599536212427415511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_15
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 363
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4fcc0d0da5059430800000000000000
+      internalID: 3788940902308564811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 363
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047c12a83c0d8c680800000000000000
+      internalID: -8734501939030407360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_17
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 363
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a16db337d69e8080800000000000000
+      internalID: -9183236739131678296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_18
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 363
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b48d65b5b498de020800000000000000
+      internalID: 2372703535442090059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_19
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 363
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c741fcf9a34a5cf0800000000000000
+      internalID: -262823230875547710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_20
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 363
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcdfb82383b6ffa0800000000000000
+      internalID: -5767224896895591204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 302
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8e3ca2f788720a0800000000000000
+      internalID: -6906401423789659979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_22
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 302
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9d7e060a49d4f0800000000000000
+      internalID: -803529668635550984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_23
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 302
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234f6a608ee80b220800000000000000
+      internalID: 2499654920385786930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_24
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 302
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312480da6dac4adf0800000000000000
+      internalID: -169787862558424557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_25
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 302
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37e4116967626a2f0800000000000000
+      internalID: -962039179631309197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_26
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 302
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9fcc2fc042c11e0800000000000000
+      internalID: -2225864477796140628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 302
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 830928e2b825a4ca0800000000000000
+      internalID: -6031917993175117768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_28
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 241
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50b26710dd43e15c0800000000000000
+      internalID: -4242895675119490299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_29
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 241
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c853647e7d30dd30800000000000000
+      internalID: 4454127644797262023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_30
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 241
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d6bca3f5ebd5dc0800000000000000
+      internalID: -3648550806882652782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_31
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 241
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cb3cd811f027510800000000000000
+      internalID: 1545314190208777311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_32
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 241
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e481195d83bf76d0800000000000000
+      internalID: -2990474207884639000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_33
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 241
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b61fe14e215afb0800000000000000
+      internalID: -4637279470327076086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_34
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 241
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49709463044f51150800000000000000
+      internalID: 5842844648208926612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_35
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 180
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1910af8b959dc4940800000000000000
+      internalID: 5281835442377458065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_36
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 180
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127a61f494500a700800000000000000
+      internalID: 549444966956836641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_37
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 180
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa6683e076607e80800000000000000
+      internalID: -8182927887892583696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_38
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 180
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c281953799ede40800000000000000
+      internalID: 5683148500483189871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_39
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 180
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7195da51d053f0dd0800000000000000
+      internalID: -2517735336362288873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_40
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 180
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b3d9b7a00a1da4b0800000000000000
+      internalID: -5427653385795284048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_41
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 180
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e44b720f53b21470800000000000000
+      internalID: 8363944678625330407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 119
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b4b21bd5390f17e0800000000000000
+      internalID: -1792703999756815178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_43
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 119
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e3f5652cd0a40f0800000000000000
+      internalID: -1132077228006359489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_44
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 119
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f67db53c2a0e41e0800000000000000
+      internalID: -2211819181995886857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 119
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5bd4c28ff6924d0800000000000000
+      internalID: -3158870551937829463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_46
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 119
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95651c45cc71a8220800000000000000
+      internalID: 2488827910438344281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_47
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 119
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22695fb5c6e890ed0800000000000000
+      internalID: -2447268326448720350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_48
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 119
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45aa92453e2a6070800000000000000
+      internalID: 8100337686064833870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801b7f50562fb4fe0800000000000000
+      internalID: -1203601959685738232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_50
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 58
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30800664eb935bd30800000000000000
+      internalID: 4446523696485500931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_51
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 58
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d722986458306bc40800000000000000
+      internalID: 5527609463592788605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_52
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 58
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5643a19716c592020800000000000000
+      internalID: 2317485056972174437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_53
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 58
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851885e55febb89e0800000000000000
+      internalID: -1617989680050437800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_54
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 58
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86820073aa0eac040800000000000000
+      internalID: 4668790985394759784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ABPC_birds_melody_55
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 58
+        width: 70
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3f8ed5b72a59e590800000000000000
+      internalID: -7644479765883220164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
